@@ -12,3 +12,13 @@ Here's an Image!
 Time taken: 0.8hrs
 
 Total Time taken : 0.8hrs
+
+## Fins!
+I made some fins! Took me a couple mins to figure it out
+
+Here is the image of that!:
+
+<img width="520" height="484" alt="image" src="https://github.com/user-attachments/assets/2548735a-0add-45cf-8b65-8dc2747fe400" />
+
+Time taken : 0.5 hrs
+Total time taken : 1.3 hrs

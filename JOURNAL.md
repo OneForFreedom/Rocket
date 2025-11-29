@@ -7,3 +7,8 @@ Back for another week of cad! This time, I'm making a rocket! Or rockets. Right 
 I did this relatively quick, as i just made a sort of sketch, then just revolved the body!
 
 Here's an Image!
+<img width="523" height="688" alt="image" src="https://github.com/user-attachments/assets/0893d2e1-6e2b-4a94-a8e6-a77e5275e248" />
+
+Time taken: 0.8hrs
+
+Total Time taken : 0.8hrs

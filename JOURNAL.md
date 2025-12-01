@@ -25,6 +25,13 @@ Total time taken : 1.3 hrs
 
 ## Done!
 I finished making the first rocket!
+I added windows to the rocket and coloured it in its entirety! This took me 0.7 hours
+
+<img width="704" height="535" alt="image" src="https://github.com/user-attachments/assets/9e745103-3926-4841-a113-0fba9b0667b4" />
+
+TT: 0.7
+TTT: 2H
+
 ## Sketch
 God this took me soo long to do. I finally did the sketch, now im off to extrude. I'm gonna be in a constant cycle of sketch and extrude and sketch and extrude.
 

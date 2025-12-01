@@ -22,3 +22,23 @@ Here is the image of that!:
 
 Time taken : 0.5 hrs
 Total time taken : 1.3 hrs
+
+## Done!
+I finished making the first rocket!
+## Sketch
+God this took me soo long to do. I finally did the sketch, now im off to extrude. I'm gonna be in a constant cycle of sketch and extrude and sketch and extrude.
+
+<img width="1174" height="773" alt="image" src="https://github.com/user-attachments/assets/9d8bf27b-5236-4484-b023-e27eb35bded8" />
+
+TT: 1H
+
+TTT: 3H
+
+## Finished initial extrudes!
+I finished some of the initial extrudes and rocket boosters! This took me like 1 hour to do, the majority of the time went into the rocket boosters, god they were soo anoying to work out.
+
+<img width="1185" height="555" alt="image" src="https://github.com/user-attachments/assets/98744480-83cc-454d-b29f-58c084cbbded" />
+
+TT: 1H
+
+TTT: 4H

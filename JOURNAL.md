@@ -61,3 +61,12 @@ this should NOT take this long. The repetitive act of extruding and filleting pr
 TT: 1H
 
 TTT: 5H
+
+## Update! 
+I changed the first sketch so that I can make future extrudes and fillets easier. I also filleted the wings - alot, Now it looks really smoooooth!
+
+<img width="1323" height="586" alt="image" src="https://github.com/user-attachments/assets/6a88179d-9628-458c-a16f-78d2223ee08c" />
+
+TT: 1H
+
+TTT: 6H

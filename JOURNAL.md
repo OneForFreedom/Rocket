@@ -22,6 +22,7 @@ Here is the image of that!:
 <img width="520" height="484" alt="image" src="https://github.com/user-attachments/assets/2548735a-0add-45cf-8b65-8dc2747fe400" />
 
 Time taken : 0.5 hrs
+
 Total time taken : 1.3 hrs
 
 ## Done!
@@ -51,3 +52,12 @@ I finished some of the initial extrudes and rocket boosters! This took me like 1
 TT: 1H
 
 TTT: 4H
+
+## WHAT?? HOW'D THE TIME FLY?
+this should NOT take this long. The repetitive act of extruding and filleting prolly took the time. Although I did make quite a bit of progress, I might be now doing some work near the front :D
+
+<img width="1783" height="744" alt="image" src="https://github.com/user-attachments/assets/72084a96-5753-4c3c-ba56-60aa3e15c279" />
+
+TT: 1H
+
+TTT: 5H

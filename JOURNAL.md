@@ -70,3 +70,14 @@ I changed the first sketch so that I can make future extrudes and fillets easier
 TT: 1H
 
 TTT: 6H
+
+## Why is this soo anoying???
+I spent another hour just trying to rectify the fact that I messed up a part near that engine thing, it was like off centred by soo much, i tried mirroring, using the move tool, everything, i just then remade the entire thing and mirrored the sketch, then it worked. I also did alot of filleting! :D
+
+****<img width="1348" height="498" alt="image" src="https://github.com/user-attachments/assets/1c077311-57eb-47da-80f6-aa74bb7c8ccc" />
+
+TT: 1H
+
+TTT: 7H
+<img width="1348" height="498" alt="image" src="https://github.com/user-attachments/assets/cf66f29a-bdcd-4b82-8fc0-be796d2d6c6d" />
+

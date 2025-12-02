@@ -79,5 +79,5 @@ I spent another hour just trying to rectify the fact that I messed up a part nea
 TT: 1H
 
 TTT: 7H
-<img width="1348" height="498" alt="image" src="https://github.com/user-attachments/assets/cf66f29a-bdcd-4b82-8fc0-be796d2d6c6d" />
+
 

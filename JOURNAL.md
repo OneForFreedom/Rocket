@@ -40,9 +40,9 @@ God this took me soo long to do. I finally did the sketch, now im off to extrude
 
 <img width="1174" height="773" alt="image" src="https://github.com/user-attachments/assets/9d8bf27b-5236-4484-b023-e27eb35bded8" />
 
-TT: 1H
+TT: 1.5H
 
-TTT: 3H
+TTT: 3.5H
 
 ## Finished initial extrudes!
 I finished some of the initial extrudes and rocket boosters! This took me like 1 hour to do, the majority of the time went into the rocket boosters, god they were soo anoying to work out.
@@ -51,7 +51,7 @@ I finished some of the initial extrudes and rocket boosters! This took me like 1
 
 TT: 1H
 
-TTT: 4H
+TTT: 4.5H
 
 ## WHAT?? HOW'D THE TIME FLY?
 this should NOT take this long. The repetitive act of extruding and filleting prolly took the time. Although I did make quite a bit of progress, I might be now doing some work near the front :D
@@ -60,7 +60,7 @@ this should NOT take this long. The repetitive act of extruding and filleting pr
 
 TT: 1H
 
-TTT: 5H
+TTT: 5.5H
 
 ## Update! 
 I changed the first sketch so that I can make future extrudes and fillets easier. I also filleted the wings - alot, Now it looks really smoooooth!
@@ -69,18 +69,18 @@ I changed the first sketch so that I can make future extrudes and fillets easier
 
 TT: 1H
 
-TTT: 6H
+TTT: 6.5H
 
 ## Why is this soo anoying???
 I spent another hour just trying to rectify the fact that I messed up a part near that engine thing, it was like off centred by soo much, i tried mirroring, using the move tool, everything, i just then remade the entire thing and mirrored the sketch, then it worked. I also did alot of filleting! :D
 
-<img width="278" height="200" alt="image" src="https://github.com/user-attachments/assets/7e128a53-2e1f-46a6-ba6f-613c9bd89eaf" />
+<img width="278" height="200" alt="image" src="https://github.com/user-attachments/assets/978a1f3b-5663-4cd0-9d4e-77c355c68aad" />
 
 <img width="1348" height="498" alt="image" src="https://github.com/user-attachments/assets/1c077311-57eb-47da-80f6-aa74bb7c8ccc" />
 
 TT: 1H
 
-TTT: 7H
+TTT: 7.5H
 
 ## I spent 2 more hours.
 I spent 2 hours just making sure everything looks good, I filleted the entire rocket, It looks awesome! It's pretty much done, all that's left is to colour in the rocket!! This is legit just sketch, ectrude, fillet and edit previous sketch.
@@ -89,7 +89,7 @@ I spent 2 hours just making sure everything looks good, I filleted the entire ro
 
 TT: 2H 
 
-TTT: 9H
+TTT: 9.5H
 
 ## FINALLY GOD DAMN DONE!!!
 I SPENT LIKE 3 HOURS ON THIS. IDK HOW, I COLOURED IN EVERY.. SINGLE.. LAST BIT!! MY SLAVING AWAY TURNED OUT PROFITIABLE!! It looks.. AWESOME!!
@@ -100,4 +100,4 @@ I'll have some cool renders in The Readme
 
 TT : 3H
 
-TTT: 12H
+TTT: 12.5H

@@ -74,10 +74,28 @@ TTT: 6H
 ## Why is this soo anoying???
 I spent another hour just trying to rectify the fact that I messed up a part near that engine thing, it was like off centred by soo much, i tried mirroring, using the move tool, everything, i just then remade the entire thing and mirrored the sketch, then it worked. I also did alot of filleting! :D
 
-****<img width="1348" height="498" alt="image" src="https://github.com/user-attachments/assets/1c077311-57eb-47da-80f6-aa74bb7c8ccc" />
+<img width="1348" height="498" alt="image" src="https://github.com/user-attachments/assets/1c077311-57eb-47da-80f6-aa74bb7c8ccc" />
 
 TT: 1H
 
 TTT: 7H
 
+## I spent 2 more hours.
+I spent 2 hours just making sure everything looks good, I filleted the entire rocket, It looks awesome! It's pretty much done, all that's left is to colour in the rocket!! This is legit just sketch, ectrude, fillet and edit previous sketch.
 
+<img width="937" height="531" alt="image" src="https://github.com/user-attachments/assets/453516b7-1ae9-4726-bf7a-3de3dedbb4f5" />
+
+TT: 2H 
+
+TTT: 9H
+
+## FINALLY GOD DAMN DONE!!!
+I SPENT LIKE 3 HOURS ON THIS. IDK HOW, I COLOURED IN EVERY.. SINGLE.. LAST BIT!! MY SLAVING AWAY TURNED OUT PROFITIABLE!! It looks.. AWESOME!!
+
+I'll have some cool renders in The Readme
+
+<img width="918" height="574" alt="image" src="https://github.com/user-attachments/assets/5e5d5b02-4e05-495c-bb56-26054a2e05ad" />
+
+TT : 3H
+
+TTT: 12H

@@ -74,6 +74,8 @@ TTT: 6H
 ## Why is this soo anoying???
 I spent another hour just trying to rectify the fact that I messed up a part near that engine thing, it was like off centred by soo much, i tried mirroring, using the move tool, everything, i just then remade the entire thing and mirrored the sketch, then it worked. I also did alot of filleting! :D
 
+<img width="278" height="200" alt="image" src="https://github.com/user-attachments/assets/7e128a53-2e1f-46a6-ba6f-613c9bd89eaf" />
+
 <img width="1348" height="498" alt="image" src="https://github.com/user-attachments/assets/1c077311-57eb-47da-80f6-aa74bb7c8ccc" />
 
 TT: 1H

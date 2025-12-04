@@ -1,5 +1,5 @@
 # Rocket
-I'm cadding a model replica of a rocket(s)!
+I'm cadding rockets!
 
 ## Cad link: https://cad.onshape.com/documents/b1251685c1834b1c1a5df335/w/b19a9051a2e86537272aebbd/e/c6fc32cfe7b2e27b20d068e4?renderMode=0&uiState=6930ceb75738574c00fcf0c9
 

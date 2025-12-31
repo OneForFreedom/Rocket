@@ -27,3 +27,5 @@ reload if you get a 403 error!
 <img width="852" height="527" alt="Screenshot 2025-12-03 235350" src="https://github.com/user-attachments/assets/d7906b00-13b4-4419-b798-32504dd3189a" />
 
 <img width="533" height="528" alt="Screenshot 2025-12-03 235438" src="https://github.com/user-attachments/assets/42c407c2-7855-4e2a-becf-8349f4adf99a" />
+
+## Physical Models!
